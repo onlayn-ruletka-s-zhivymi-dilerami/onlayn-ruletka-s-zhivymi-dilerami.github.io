@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Host: onlayn-ruletka-s-zhivymi-dilerami.github.io
+Sitemap: https://onlayn-ruletka-s-zhivymi-dilerami.github.io/sitemap.xml
